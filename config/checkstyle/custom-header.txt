@@ -1,0 +1,4 @@
+/*
+ * ${copyright-pattern}
+ * All Rights Reserved.
+ */
